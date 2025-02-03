@@ -130,6 +130,11 @@ section div button {
     text-decoration: none;
 }
 
+section div button {
+    color: white;
+    text-decoration: none;
+}
+
 section div button:hover {
     background-color: black;
     border: 3px solid #f9004d;
